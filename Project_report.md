@@ -37,7 +37,7 @@ to the visualization.
 
 ## 4. Feedback 
 
-Feedback collected from : my Udacity mentor, a friend and Udacity project review.  
+Feedback collected on the first story from : my Udacity mentor, a friend and Udacity project review.  
 
 > The first graph was very compact and illustrative in the sense that it clearly shows two things: 1. total men is larger than total women, 2. the survival rate diff between women and men is very different. I like the first graph. The second graph is kind of heavy to read, the name of ports is better read if put below the x axis, so that info is not scattered around the graph, same applies to Pclass/Sex plot. The summary for the Age histogram is kind of weak, I didn't know after reading the comments what observation you had there. overall you did a good job on this visualization project, generally easy to read, and I had the impression that men had lower survival rate than women, class 3 survival rate lower than 1&2, and survival rate is also related to age.
 and I like the coloring too. Red means not survived, green means survived is really intuitive to me and I like your using stacked histogram to add another dimension to do comparison(i.e. survived vs not survived within sex).
